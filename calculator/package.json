@@ -1,0 +1,9 @@
+{
+  "name": "calculator-digital-twin",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/twin.test.js"
+  }
+}
